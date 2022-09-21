@@ -1,0 +1,19 @@
+{
+    "name": "Uriot/testpackagistzabbix",
+    "description": "demo para zabbix plugin",
+    "type": "package",
+    "license": "Open source",
+    "autoload": {
+        "psr-4": {
+            "Uriot\\Testpackagistzabbix\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Elliot Urizar",
+            "email": "eurizar@maphpia.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
