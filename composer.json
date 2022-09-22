@@ -1,7 +1,7 @@
 {
     "name": "Uriot/testpackagistzabbix",
     "description": "demo para zabbix plugin",
-    "type": "package",
+    "type": "wordpress-plugin",
     "license": "Open source",
     "autoload": {
         "psr-4": {
